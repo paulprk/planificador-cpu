@@ -90,3 +90,7 @@ HTML + CSS + JavaScript vanilla, sin frameworks ni dependencias de build. Paleta
 ## Origen
 
 Construido durante la cursada de Introducción a los Sistemas Operativos (UNLP, 2do semestre 2026) como herramienta de estudio para el TP2 de planificación de CPU, para verificar ejercicios de forma interactiva en lugar de a mano.
+
+## Cómo se hizo
+
+Este proyecto fue desarrollado con asistencia de IA (Claude Code). Yo definí qué quería construir, y fui revisando y probando el resultado.
